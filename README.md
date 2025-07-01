@@ -5,6 +5,13 @@ I’m **Nabintou S. Fofana**, a Software Engineering student focused on building
 
 ---
 
+
+## 📸 Screenshots
+
+![portfolio](https://github.com/user-attachments/assets/35539c30-40c7-4437-ab49-87a63f018364)
+
+---
+
 ## 📌 About This Project
 
 This website is built with **HTML**, **CSS**, and **JavaScript**.  
@@ -19,7 +26,7 @@ I designed it to be clear, modern, and easy to navigate on all devices.
 
 ## 🚀 Live Demo
 
-👉 [View my portfolio here](https://YOUR-USERNAME.github.io/portfolio)
+👉 [View my portfolio here](https://nabintousfofana.github.io/portfolio_website/)
 
 ---
 
@@ -63,12 +70,6 @@ git clone https://github.com/YOUR-USERNAME/portfolio.git
 ```
 
 Edit the HTML files and CSS to match your own style, projects, and personal info.
-
----
-
-## 📸 Screenshots
-
-![portfolio](https://github.com/user-attachments/assets/35539c30-40c7-4437-ab49-87a63f018364)
 
 ---
 
